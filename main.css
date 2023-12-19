@@ -42,6 +42,9 @@ img{
 .text{
     text-align: center;
 }
+h2{
+    font-weight: 600;
+}
 h5{
     font-weight: 400;
     color: hsl(220, 15%, 55%);
